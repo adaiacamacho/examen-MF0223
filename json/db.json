@@ -1,0 +1,12 @@
+{
+  "servidores": [
+    {
+      "id": "2",
+      "nombre": "Servidor 2",
+      "cpu": 6,
+      "ram": 8,
+      "almacenamiento": "HDD"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
