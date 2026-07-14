@@ -2,20 +2,19 @@
   "name": "examen-mf0223",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/adaiacamacho/examen-MF0223#readme",
+  "bugs": {
+    "url": "https://github.com/adaiacamacho/examen-MF0223/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adaiacamacho/examen-MF0223.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/adaiacamacho/examen-MF0223/issues"
-  },
-  "homepage": "https://github.com/adaiacamacho/examen-MF0223#readme"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
